@@ -1,0 +1,14 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "API server for a simple to-do app.",
+  "main": "server.js",
+  "repository": "https://github.com/Ygshvr/to-do",
+  "author": "Yogeshwar Singh <ysthecool@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
